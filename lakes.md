@@ -2,3 +2,4 @@ Some Lakes
 ==========
 
 * Windermere
+* Buttermere
