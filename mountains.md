@@ -7,4 +7,5 @@ Some mountains in Scotland:
 * Cairngorm
 * Mount Fictional
 * Ben Eigh
+* Stac Pollaidh
 * Arthur's Seat
